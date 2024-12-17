@@ -1,0 +1,7 @@
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  jpa:
+    show-sql: true
+  datasource:
+    url: jdbc:tc:postgresql:17:///exchange_rates

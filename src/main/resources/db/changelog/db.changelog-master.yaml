@@ -1,0 +1,7 @@
+databaseChangeLog:
+  - include:
+      file: "queries/01-create-currency-table.sql"
+      relativeToChangelogFile: true
+  - include:
+      file: "queries/02-create-currency-log-table.sql"
+      relativeToChangelogFile: true

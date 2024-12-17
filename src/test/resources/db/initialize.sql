@@ -1,0 +1,4 @@
+INSERT INTO CURRENCY(CURRENCY_CODE)
+VALUES ('EUR'),
+       ('USD'),
+       ('UAH');
